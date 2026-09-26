@@ -3,7 +3,7 @@
   "Author": "DelayDazzle",
   "Version": "1.0.0",
   "Description": "Stardropium 的独立汉化补丁。",
-  "UniqueID": "YourName.StardropiumChinese",
+  "UniqueID": "DelayDazzle.StardropiumChinese",
   "EntryDll": "StardropiumChinese.dll",
   "MinimumApiVersion": "4.0.0",
   "UpdateKeys": []
